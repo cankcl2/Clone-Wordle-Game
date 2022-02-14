@@ -35,9 +35,9 @@ scchh..
 ## Version History
 
 * 1.0
-    *-Seems no bugs
-    *-Completed %100 
-    *-Added background music
+*  -Seems no bugs
+*  -Completed %100 
+*  -Added background music
 
 
 
