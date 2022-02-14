@@ -1,6 +1,6 @@
-# Project Title
+# WORDLE CLONE 
 
-Simple overview of use/purpose.
+An improved version of the game a.k.a WORDLE.
 
 ## Description
 
