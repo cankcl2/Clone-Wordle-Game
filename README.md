@@ -16,7 +16,7 @@ An improved version of the game a.k.a WORDLE.
 * Requirements:
 * Unity Hub / v.\ Unity 2020.3.28f1 / Visual Studio || VsCode
 * ### APK File:
-* 
+* https://file.io/spPnpZv4ZYRh
 
 ### Executing program
 
