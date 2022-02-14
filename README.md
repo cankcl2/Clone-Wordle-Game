@@ -40,9 +40,9 @@ scchh..
 *  -Added background music
 
 ## ScreenShots
-[In-Game](https://user-images.githubusercontent.com/80987102/153855440-6e0e3d19-defd-4cc8-b23c-97f109f27cac.png)
-[Menu](https://user-images.githubusercontent.com/80987102/153855557-0e06b838-610f-428b-9038-3dc33ad0a3bf.JPG)
-[Instructions](https://user-images.githubusercontent.com/80987102/153855589-b0b743ae-6148-4600-89b5-038aada3eb68.JPG)
+![In-Game](https://user-images.githubusercontent.com/80987102/153855440-6e0e3d19-defd-4cc8-b23c-97f109f27cac.png)
+![Menu](https://user-images.githubusercontent.com/80987102/153855557-0e06b838-610f-428b-9038-3dc33ad0a3bf.JPG)
+![Instructions](https://user-images.githubusercontent.com/80987102/153855589-b0b743ae-6148-4600-89b5-038aada3eb68.JPG)
 
 
 
