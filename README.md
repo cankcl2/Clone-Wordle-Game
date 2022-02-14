@@ -1,21 +1,19 @@
 # WORDLE CLONE 
+![developer](https://user-images.githubusercontent.com/80987102/153830260-917a35b4-17ab-4898-b626-d621e7ef0c2e.png)
 
 An improved version of the game a.k.a WORDLE.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* It's written for Android but still you can edit and change build platform.
+* Android//
 
 ### Installing
 
-* How/where to download your program
+* APK File:
+* 
 * Any modifications needed to be made to files/folders
 
 ### Executing program
