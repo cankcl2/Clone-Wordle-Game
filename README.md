@@ -1,5 +1,5 @@
 # WORDLE CLONE 
-<img src=![developer](https://user-images.githubusercontent.com/80987102/153830260-917a35b4-17ab-4898-b626-d621e7ef0c2e.png) alt="----" width="200" height="200">
+<img src="![developer](https://user-images.githubusercontent.com/80987102/153830260-917a35b4-17ab-4898-b626-d621e7ef0c2e.png)" alt="----" width="200" height="200">
 
 An improved version of the game a.k.a WORDLE.
 
