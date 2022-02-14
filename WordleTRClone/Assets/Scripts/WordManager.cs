@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO;
+using System.Linq;
 
 
 public class WordHolder
@@ -15,9 +17,20 @@ public class WordManager : MonoBehaviour
 
     private void Awake()
     {
+        string readFromFilePath = Application.streamingAssetsPath + "/Recall_Chat/" + "words" + ".txt";
+
+        List<string> fileLines = File.ReadAllLines(readFromFilePath).ToList();
+        
+
+        foreach (string line in fileLines)
+        {
+            wordListString.Add(line);
+        }
+
         currentWord = wordListString[Random.Range(0, wordListString.Count)];
         Converter();
     }
+    
     void Converter()
     {
         foreach (string word in wordListString)
