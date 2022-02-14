@@ -41,5 +41,5 @@ scchh..
 
 
 
-## * [Report Bug](https://github.com/cankcl2/Clone-Wordle-Game/issues)
-## * [Request Feature](https://github.com/cankcl2/Clone-Wordle-Game/issues)
+### * [Report Bug](https://github.com/cankcl2/Clone-Wordle-Game/issues)
+### * [Request Feature](https://github.com/cankcl2/Clone-Wordle-Game/issues)
