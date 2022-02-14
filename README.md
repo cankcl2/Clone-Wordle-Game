@@ -26,31 +26,19 @@ An improved version of the game a.k.a WORDLE.
 scchh..
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Hüseyin Can Akçalı
+[Hüseyin Can Akçalı](linkedin.com/in/h-can-akcali/)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 1.0
+    -Seems no bugs
+    -Completed %100 
+    -Added background music
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
