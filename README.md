@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/cankcl2/Clone-Wordle-Game">
     <img src="![logo](https://user-images.githubusercontent.com/80987102/153827251-5e7d15f6-3fb0-42f7-a4f4-4bdc16717bcf.png)" alt="Logo" width="80" height="80">
   </a>
 
