@@ -8,14 +8,15 @@ An improved version of the game a.k.a WORDLE.
 
 ### Dependencies
 
-* It's written for Android but still you can edit and change build platform.
+* It's written for Android but still you can edit and change the build platform.
 * Android//
 
 ### Installing
 
-* APK File:
+* Requirements:
+* Unity Hub / v.\ Unity 2020.3.28f1 / Visual Studio || VsCode
+* # APK File:
 * 
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
