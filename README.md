@@ -2,7 +2,7 @@
  <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][https://github.com/cankcl2/Clone-Wordle-Game/network/members]
+[![Forks][forks-shield]][github.com/cankcl2/Clone-Wordle-Game/network/members]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
