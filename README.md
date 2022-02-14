@@ -20,10 +20,10 @@ An improved version of the game a.k.a WORDLE.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Basic Installation
+* Clone and Run (:
 ```
-code blocks for commands
+scchh..
 ```
 
 ## Help
